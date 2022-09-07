@@ -1,0 +1,17 @@
+.navbar_main_div{
+    border: 1px solid cadetblue;
+    height: 70px;
+    background-color:cadetblue;
+}
+.navbar_main_div>div{
+    margin-top:15px;
+    
+}
+.header_navlink{
+   text-decoration: none;
+   font-size: 22px;
+   font-weight:bold;
+   margin-left: 150px;
+   color:aliceblue 
+
+}
